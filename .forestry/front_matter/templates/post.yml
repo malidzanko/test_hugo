@@ -8,19 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
-- type: list
-  name: author
-  label: author
 - type: list
   name: categories
   label: categories
 - type: list
   name: tags
   label: tags
-- type: text
-  name: description
-  label: description
-  description: Meta description
