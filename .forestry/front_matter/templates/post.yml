@@ -14,5 +14,10 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: reading_time
+  type: text
+  config:
+    required: false
+  label: reading time
 pages:
 - content/blog/fix-horrid-blue-dir-colors-in-bash.md
