@@ -12,9 +12,6 @@ fields:
     date_format: YYYY-MM-DD
     time_format: hh:mm:ss
 - type: list
-  name: categories
-  label: categories
-- type: list
   name: tags
   label: tags
 pages:
