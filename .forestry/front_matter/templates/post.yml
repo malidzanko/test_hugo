@@ -17,3 +17,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/blog/fix-horrid-blue-dir-colors-in-bash.md
