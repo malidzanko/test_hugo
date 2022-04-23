@@ -20,4 +20,5 @@ fields:
     required: false
   label: reading time
 pages:
+- config.toml
 - content/blog/fix-horrid-blue-dir-colors-in-bash.md
